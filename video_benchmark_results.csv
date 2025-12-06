@@ -1,0 +1,23 @@
+﻿模型,视频,帧数,耗时(s),FPS,结果文件,时间戳
+yolov8n,road,1478,48.27,30.6,yolov8n_road.mp4,2025-09-26 11:31:19
+yolov8n,sunset,2557,70.83,36.1,yolov8n_sunset.mp4,2025-09-26 11:32:30
+yolov8s,road,1478,60.59,24.4,yolov8s_road.mp4,2025-09-26 11:33:31
+yolov8s,sunset,2557,82.67,30.9,yolov8s_sunset.mp4,2025-09-26 11:34:53
+yolov8m,road,1478,64.45,22.9,yolov8m_road.mp4,2025-09-26 11:35:58
+yolov8m,sunset,2557,94.22,27.1,yolov8m_sunset.mp4,2025-09-26 11:37:32
+rtdetr-l,road,1478,101.35,14.6,rtdetr-l_road.mp4,2025-09-26 11:39:14
+rtdetr-l,sunset,2557,162.99,15.7,rtdetr-l_sunset.mp4,2025-09-26 11:41:57
+rtdetr-x,road,1478,136.87,10.8,rtdetr-x_road.mp4,2025-09-26 11:44:14
+rtdetr-x,sunset,2557,225.98,11.3,rtdetr-x_sunset.mp4,2025-09-26 11:48:00
+yolo11n,road,1478,49.97,29.6,yolo11n_road.mp4,2025-09-26 11:48:50
+yolo11n,sunset,2557,75.82,33.7,yolo11n_sunset.mp4,2025-09-26 11:50:06
+yolo11m,road,1478,62.89,23.5,yolo11m_road.mp4,2025-09-26 11:51:09
+yolo11m,sunset,2557,88.82,28.8,yolo11m_sunset.mp4,2025-09-26 11:52:37
+yolo11x,road,1478,92.88,15.9,yolo11x_road.mp4,2025-09-26 11:54:11
+yolo11x,sunset,2557,142.23,18.0,yolo11x_sunset.mp4,2025-09-26 11:56:33
+yolo12n,road,1478,52.38,28.2,yolo12n_road.mp4,2025-09-26 11:57:25
+yolo12n,sunset,2557,79.12,32.3,yolo12n_sunset.mp4,2025-09-26 11:58:44
+yolo12s,road,1478,59.38,24.9,yolo12s_road.mp4,2025-09-26 11:59:44
+yolo12s,sunset,2557,84.3,30.3,yolo12s_sunset.mp4,2025-09-26 12:01:08
+yolo12m,road,1478,59.55,24.8,yolo12m_road.mp4,2025-09-26 12:02:08
+yolo12m,sunset,2557,82.42,31.0,yolo12m_sunset.mp4,2025-09-26 12:03:30
